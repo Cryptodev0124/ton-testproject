@@ -8,7 +8,7 @@ import {MineMessageParams, Queries} from "./src/giver/NftGiver.data";
 
 async function main () {
 
-  const wallet = Address.parse('0QBQBwSJrdPLEwKammiSQK4TK0ZmGPV4ycey-ErUPrwmYSAM');
+  const wallet = Address.parse('EQBQBwSJrdPLEwKammiSQK4TK0ZmGPV4ycey-ErUPrwmYSAM');
   const collection = Address.parse('EQDk8N7xM5D669LC2YACrseBJtDyFqwtSPCNhRWXU7kjEptX');
 
   // get the decentralized RPC  endpoint in Testnet
